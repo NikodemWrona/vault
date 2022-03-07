@@ -1,0 +1,1 @@
+Nice explanation of `Go` project structure [here](https://github.com/golang-standards/project-layout).
